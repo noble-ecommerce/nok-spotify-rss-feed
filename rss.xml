@@ -31,7 +31,17 @@
     <!-- === START OF EPISODES === -->
 
     <!-- EPISODE 1 TEMPLATE -->
+    
     <item>
+      <title>null</title>
+      <description><![CDATA[Discover the timeless wisdom of Sun Tzu's "The Art of War" and how its principles can be applied to modern business and life. This summary explores key strategies for achieving success in competitive environments, from understanding your opponent to mastering the battlefield of business. Learn how to gain a strategic advantage, make better decisions, and lead effectively. Perfect for entrepreneurs, leaders, and anyone seeking to enhance their competitive edge.]]></description>
+      <pubDate>Mon, 24 Nov 2025 21:06:08 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1mVIUKMuqIDk_SAha9eNzXw987QMR55Ba" type="audio/mpeg"/>
+      <itunes:author>Nicholas Bugeja</itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <guid isPermaLink="false">1764018368704</guid>
+    </item>
+<item>
       <title>Episode 1: Title of Your First Episode</title>
       <description>A summary of what this specific episode is about.</description>
       <pubDate>Mon, 24 Nov 2025 12:00:00 GMT</pubDate>
